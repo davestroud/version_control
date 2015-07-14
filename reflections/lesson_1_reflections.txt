@@ -1,0 +1,54 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+: I was able to quickly identify the changes in the code, which was almost 1,000 lines. Prior to learning this technique, I literally would have to go line by line and, with my trammeled vision, make an attempt to find any potential changes.  Clearly, your time can be spent in a more productive fashion by employing this method.  
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+: It will keep your work more organized.  If you make a complete mess out of any changes you make, you can always go back to a stable or working version.  It is easier to show another programmer your existing work; therefore, making help/ collaboration easier.  
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+: With a manual save you have the advantage of knowing that you may be less likely to lose anthing that you are working on.  The disadvantage is that saving files anytime will most likely save during a time that is irrelevent to a potentially important part of your code.  As a developer, I feel that it is more important to save my work at the correct time, ie, after I have made a major change in the code verses continually saving data where no pertinet or relevent events are taking place.  
+
+
+How can you use the commands git log and git diff to view the history of the files?  
+
+: Git log allows you to see all of the commits for a particular file.  Git diff allows you to take any commit and use it to compare the differences between two particular files.  You do this by comparing the commit id's.  You are able to see how many lines are added or deleted, the code, comments, etc.  
+
+
+How might using version control make you more confident to make changes that could break something?
+
+: It makes all the difference in the world with respect to your confidence.  If you you are confident that a version of your app is saved, you are much more likely to experiment and not worry about losing something that works.  In the past I have been less likely to make changes to code for fear of 'breaking something'.  With confident github skills this is no longer an issue.    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

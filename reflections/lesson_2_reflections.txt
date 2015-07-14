@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+:  It initiates or creates a new git repository that is tied to a specific directory.  
+	 - You need to do this when you first create the file.  
+
+
+How is the staging area different form the working directory and the repository?  
+What value do you think it offers?
+
+:	 
